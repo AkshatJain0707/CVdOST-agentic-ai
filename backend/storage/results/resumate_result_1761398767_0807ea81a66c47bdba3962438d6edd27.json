@@ -1,0 +1,39 @@
+{
+  "resume_parsed": {
+    "resume_skills": [],
+    "tools": [],
+    "soft_skills": []
+  },
+  "jd_parsed": {
+    "jd_skills": [],
+    "tools": [],
+    "soft_skills": []
+  },
+  "comparison": {
+    "matched_skills": [],
+    "missing_skills": [],
+    "extra_skills": [],
+    "match_percent": 0.0
+  },
+  "optimized_sections": {
+    "optimized_text": "",
+    "highlights": []
+  },
+  "interview_questions": [
+    "Tell me about a time you solved a hard problem.",
+    "Describe your experience with key technologies..."
+  ],
+  "ats": {
+    "score": 0.0,
+    "breakdown": {
+      "keyword_coverage": 0.0,
+      "semantic_score": 0.0,
+      "action_verb_score": 0.0
+    },
+    "matched_keywords": []
+  },
+  "target_role": "",
+  "meta": {
+    "elapsed_seconds": 1.73
+  }
+}
