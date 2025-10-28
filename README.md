@@ -50,6 +50,7 @@ CVdOST is an agentic AI system that analyzes resumes against job descriptions, s
    - Frontend: http://localhost:8501
    - API: http://localhost:8000
    - API Docs: http://localhost:8000/docs
+   - Deployed on Streamlit - https://cvdost-agentic-ai.streamlit.app/
 
 ## 📋 API Usage
 
