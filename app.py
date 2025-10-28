@@ -571,7 +571,7 @@ For more insights, visit the Analytics & Insights section.
             st.download_button(
                 label="📊 Export Scores as CSV",
                 data=csv_data,
-                file_name=f"ResuMate_Scores_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv",
+                file_name=f"CVdOST_Scores_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv",
                 mime="text/csv"
             )
         
